@@ -20,11 +20,10 @@
 
 ## 💼 Featured Projects
 
-🔹 **[FactFinder AI](#)**: Machine learning project using Random Forest; improved F1 score by 18% via optimized data preprocessing and analysis using Pandas, Matplotlib, Seaborn.  
-🔹 **[FemVitalis](#)**: A modern, Mobile app with Flutter & Firebase; improved customer engagement by 30%.  
-🔹 **[Online Hotel Management System](#)**: C-based system using data structures to manage bookings, records, and billing efficiently.  
-🔹 **[Online College Management System](#)**: C-based academic management system with user-friendly navigation and 95% positive feedback.
-
+🔹 **[FactFinder AI](https://github.com/PalleAkshithReddy/Fact_Finder_AI.git)**: Machine learning project using Random Forest; improved F1 score by 18% via optimized data preprocessing and analysis using Pandas, Matplotlib, Seaborn.  
+🔹 **[FemVitalis](https://github.com/PalleAkshithReddy/femvitalis.git)**: A modern, Mobile app with Flutter & Firebase; improved customer engagement by 30%.  
+🔹 **[SkillVoice](https://github.com/PalleAkshithReddy/VoiceRecognition.git)**: A voice-controlled gaming tool designed to enhance learning by simulating real-world tasks.  
+🔹 **[Seed & Pesticide Stock Management](https://github.com/PalleAkshithReddy/Seed_And_Stock_managemnt_website.git)**: Managing seed stock records with efficient tracking.
 ---
 
 ## 🔧 Languages
