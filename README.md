@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-- 🎓 3rd Year B.Tech CSE at **SR University**, CGPA: **9.3**
+- 🎓 4th Year B.Tech CSE at **SR University**, CGPA: **9.3**
 - 🔭 Former Intern at **AWS Cloud** and **Viswam.Ai**
 - 🧠 Passionate about **AI/ML** and developing **smart full-stack solutions**
 - 🏆 Finalist @ **Smart India Hackathon**, Top 5 @ **ANVESHAN South Zone Hackathon**
