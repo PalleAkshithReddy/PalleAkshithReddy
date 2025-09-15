@@ -102,8 +102,8 @@
 
 | <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/> | [LinkedIn](https://www.linkedin.com/in/palle394/) |
 |--------------------------------------------|---------------------------------------------------------|
-| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> | [GitHub](https://github.com/TechEnthusiast1TechEnthusiast) |
+| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> | [GitHub](https://github.com/PalleAkshithReddy) |
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TechEnthusiast1TechEnthusiast&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=PalleAkshithReddy&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
