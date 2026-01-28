@@ -95,6 +95,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PalleAkshithReddy&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PalleAkshithReddy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PalleAkshithReddy&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PalleAkshithReddy&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PalleAkshithReddy&theme=react-dark)
+
+</p>
 
 ---
 
